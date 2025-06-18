@@ -1,7 +1,7 @@
-name: ussd_flutter_package
-description: "A new Flutter plugin project."
+name: ussd_flutter
+description: A Flutter plugin for handling USSD requests and responses.
 version: 0.0.1
-homepage:
+homepage: https://github.com/HAMEDNGOMA/ussd_flutter_package
 
 environment:
   sdk: '>=3.4.3 <4.0.0'

@@ -1,5 +1,5 @@
 import 'package:permission_handler/permission_handler.dart';
-import 'package:ussd_flutter_package/ussd_flutter_package.dart';
+import 'package:ussd_flutter/ussd_flutter_package.dart';
 
 enum UssdSessionState {
   started,

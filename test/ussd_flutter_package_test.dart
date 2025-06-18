@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:ussd_flutter_package/ussd_flutter_package.dart';
+import 'package:ussd_flutter/ussd_flutter_package.dart';
 import 'package:flutter/services.dart';
-import 'package:ussd_flutter_package/ussd_service.dart';
+import 'package:ussd_flutter/ussd_service.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
